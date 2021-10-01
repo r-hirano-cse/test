@@ -11,7 +11,7 @@
 ## ポイント
 
 - GitHubのデフォルトのブランチがmasterからmainになっている
-  - あらかじめGitHub上でリポジトリを作成してcloneする方がいいかも
+  - あらかじめGitHub上でリポジトリを作成してcloneする方が良いかもしれません
   - ローカル側のgitでgit initしたときのブランチもmainにする方法
     - git config --global init.defaultBranch main
 
